@@ -1,4 +1,4 @@
-# Fake-Discord-Verification-Site
+# Fake-Discord-Verification-Site https://discord.gg/QPuWDHTnDV
 Discord Fake Verification
 A frontend implementation of a Discord server verification system featuring a custom user interface. This project includes a verification popup, privacy policy page, and service description page.
 
